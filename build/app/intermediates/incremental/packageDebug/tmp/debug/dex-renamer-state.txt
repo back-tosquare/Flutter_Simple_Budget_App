@@ -1,0 +1,4 @@
+#Fri Jul 03 20:35:36 PDT 2020
+base.0=C\:\\Users\\2020\\Documents\\max-course\\budget_planner\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
